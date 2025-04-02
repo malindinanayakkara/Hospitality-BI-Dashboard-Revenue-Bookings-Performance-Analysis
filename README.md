@@ -1,4 +1,4 @@
-# Hospitality-Data-Analytics-Dashboard
+# Hospitality-Analytics-Dashboard
 
 ## Project Overview
 
