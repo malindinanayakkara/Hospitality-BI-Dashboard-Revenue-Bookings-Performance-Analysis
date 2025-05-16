@@ -1,4 +1,4 @@
-# Hospitality-Analytics-Dashboard
+# Hospitality BI Dashboard – Revenue, Bookings & Performance Analysis
 
 ## Project Overview
 
